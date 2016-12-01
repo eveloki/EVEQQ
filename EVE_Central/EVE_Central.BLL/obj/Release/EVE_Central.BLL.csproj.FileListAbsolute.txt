@@ -1,0 +1,14 @@
+C:\Users\eveloki\Documents\Visual Studio 2015\Projects\wzkf\EVE_Central.BLL\bin\Release\EVE_Central.BLL.dll
+C:\Users\eveloki\Documents\Visual Studio 2015\Projects\wzkf\EVE_Central.BLL\bin\Release\EVE_Central.BLL.pdb
+C:\Users\eveloki\Documents\Visual Studio 2015\Projects\wzkf\EVE_Central.BLL\bin\Release\EVE_Central.ConsoleAPI.dll
+C:\Users\eveloki\Documents\Visual Studio 2015\Projects\wzkf\EVE_Central.BLL\bin\Release\EVE_Central.DAL.dll
+C:\Users\eveloki\Documents\Visual Studio 2015\Projects\wzkf\EVE_Central.BLL\bin\Release\EVE_Central.DBUtility.dll
+C:\Users\eveloki\Documents\Visual Studio 2015\Projects\wzkf\EVE_Central.BLL\bin\Release\EVE_Central.dll
+C:\Users\eveloki\Documents\Visual Studio 2015\Projects\wzkf\EVE_Central.BLL\bin\Release\JsonObject.dll
+C:\Users\eveloki\Documents\Visual Studio 2015\Projects\wzkf\EVE_Central.BLL\bin\Release\EVE_Central.DAL.pdb
+C:\Users\eveloki\Documents\Visual Studio 2015\Projects\wzkf\EVE_Central.BLL\bin\Release\EVE_Central.DBUtility.pdb
+C:\Users\eveloki\Documents\Visual Studio 2015\Projects\wzkf\EVE_Central.BLL\bin\Release\EVE_Central.pdb
+C:\Users\eveloki\Documents\Visual Studio 2015\Projects\wzkf\EVE_Central.BLL\bin\Release\EVE_Central.ConsoleAPI.pdb
+C:\Users\eveloki\Documents\Visual Studio 2015\Projects\wzkf\EVE_Central.BLL\obj\Release\EVE_Central.BLL.csprojResolveAssemblyReference.cache
+C:\Users\eveloki\Documents\Visual Studio 2015\Projects\wzkf\EVE_Central.BLL\obj\Release\EVE_Central.BLL.dll
+C:\Users\eveloki\Documents\Visual Studio 2015\Projects\wzkf\EVE_Central.BLL\obj\Release\EVE_Central.BLL.pdb

@@ -1,0 +1,5 @@
+C:\Users\eveloki\Documents\Visual Studio 2015\Projects\wzkf\EVE_Central.DBUtility\bin\Debug\EVE_Central.DBUtility.dll
+C:\Users\eveloki\Documents\Visual Studio 2015\Projects\wzkf\EVE_Central.DBUtility\bin\Debug\EVE_Central.DBUtility.pdb
+C:\Users\eveloki\Documents\Visual Studio 2015\Projects\wzkf\EVE_Central.DBUtility\obj\Debug\EVE_Central.DBUtility.csprojResolveAssemblyReference.cache
+C:\Users\eveloki\Documents\Visual Studio 2015\Projects\wzkf\EVE_Central.DBUtility\obj\Debug\EVE_Central.DBUtility.dll
+C:\Users\eveloki\Documents\Visual Studio 2015\Projects\wzkf\EVE_Central.DBUtility\obj\Debug\EVE_Central.DBUtility.pdb

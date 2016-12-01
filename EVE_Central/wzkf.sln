@@ -1,0 +1,148 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "wzkf", "G:\2016年程序开发代码\eve\wzkf\", "{531BF9B3-2B8A-4938-842F-75B8474869BD}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		ProjectReferences = "{df1c2e09-d682-4454-aee8-0f0473d3d12b}|EVE_Central.BLL.dll;{A59DBE94-BEF4-4E02-8A38-A78F69B3E135}|EVE_Central.DAL.dll;{7E40A626-3FE7-437A-9E16-B57E3B20A805}|EVE_Central.DBUtility.dll;{BFD723CE-DD4D-41A3-807C-774DED9D07C7}|EVE_Central.dll;{1AF26C6A-2AA2-4B20-823A-88678959842C}|EVE_Central.ConsoleAPI.dll;{04DE82DF-4181-4364-8030-DF7A1E1AD99C}|Basis.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_52044"
+		Debug.AspNetCompiler.PhysicalPath = "G:\2016年程序开发代码\eve\wzkf\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_52044\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_52044"
+		Release.AspNetCompiler.PhysicalPath = "G:\2016年程序开发代码\eve\wzkf\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_52044\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "52044"
+		SlnRelativePath = "G:\2016年程序开发代码\eve\wzkf\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EVE_Central.Model", "EVE_Central\EVE_Central.Model.csproj", "{BFD723CE-DD4D-41A3-807C-774DED9D07C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EVE_Central.DAL", "EVE_Central.DAL\EVE_Central.DAL.csproj", "{A59DBE94-BEF4-4E02-8A38-A78F69B3E135}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EVE_Central.DBUtility", "EVE_Central.DBUtility\EVE_Central.DBUtility.csproj", "{7E40A626-3FE7-437A-9E16-B57E3B20A805}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EVE_Central.BLL", "EVE_Central.BLL\EVE_Central.BLL.csproj", "{DF1C2E09-D682-4454-AEE8-0F0473D3D12B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApplication1", "WpfApplication1\WpfApplication1.csproj", "{7269D1FA-B368-449C-B2D1-39B802CD77B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EVE_Central.Common", "EVE_Central.Common\EVE_Central.Common.csproj", "{21AC4D4A-1615-453A-829E-00207CB6C6CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EVE_Central.TypeID", "G:\2016年程序开发代码\eve\EVE_Central.TypeID\EVE_Central.TypeID.csproj", "{2DA6C4DA-7E21-42B3-9D77-2B4E4318A826}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "数据统计", "G:\2016年程序开发代码\eve\数据统计\数据统计.csproj", "{AEFF4F41-5BD0-4E02-8D74-91D503EC6905}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EVE_Central.ConsoleAPI", "G:\2016年程序开发代码\eve\EVE_Central.ConsoleAPI\EVE_Central.ConsoleAPI.csproj", "{1AF26C6A-2AA2-4B20-823A-88678959842C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EVE_Central.Basis", "Basis\EVE_Central.Basis.csproj", "{04DE82DF-4181-4364-8030-DF7A1E1AD99C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EVE_Central_RESTapi", "G:\2016年程序开发代码\eve\api\EVE_Central_RESTapi\EVE_Central_RESTapi.csproj", "{DE59927A-EC4D-4A5F-9803-B137E483BFC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "市场机api", "G:\2016年程序开发代码\eve\市场机api\市场机api.csproj", "{6C2B840F-9160-47A1-B4D6-2D6E111A7893}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WebSite2", "G:\2016年程序开发代码\eve\WebSite2\", "{009F9D94-2BFE-4F78-995D-5CF4EF3F8153}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		ProjectReferences = "{df1c2e09-d682-4454-aee8-0f0473d3d12b}|EVE_Central.BLL.dll;{1AF26C6A-2AA2-4B20-823A-88678959842C}|EVE_Central.ConsoleAPI.dll;{A59DBE94-BEF4-4E02-8A38-A78F69B3E135}|EVE_Central.DAL.dll;{7E40A626-3FE7-437A-9E16-B57E3B20A805}|EVE_Central.DBUtility.dll;{BFD723CE-DD4D-41A3-807C-774DED9D07C7}|EVE_Central.dll;{04DE82DF-4181-4364-8030-DF7A1E1AD99C}|Basis.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_64551"
+		Debug.AspNetCompiler.PhysicalPath = "G:\2016年程序开发代码\eve\WebSite2\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64551\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_64551"
+		Release.AspNetCompiler.PhysicalPath = "G:\2016年程序开发代码\eve\WebSite2\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64551\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "64551"
+		SlnRelativePath = "G:\2016年程序开发代码\eve\WebSite2\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "history", "G:\2016年程序开发代码\eve\history\history.csproj", "{FA6CCB57-BA00-484F-AF80-4C06A1C95382}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{531BF9B3-2B8A-4938-842F-75B8474869BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{531BF9B3-2B8A-4938-842F-75B8474869BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{531BF9B3-2B8A-4938-842F-75B8474869BD}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{531BF9B3-2B8A-4938-842F-75B8474869BD}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{BFD723CE-DD4D-41A3-807C-774DED9D07C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFD723CE-DD4D-41A3-807C-774DED9D07C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFD723CE-DD4D-41A3-807C-774DED9D07C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFD723CE-DD4D-41A3-807C-774DED9D07C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A59DBE94-BEF4-4E02-8A38-A78F69B3E135}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A59DBE94-BEF4-4E02-8A38-A78F69B3E135}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A59DBE94-BEF4-4E02-8A38-A78F69B3E135}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A59DBE94-BEF4-4E02-8A38-A78F69B3E135}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E40A626-3FE7-437A-9E16-B57E3B20A805}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E40A626-3FE7-437A-9E16-B57E3B20A805}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E40A626-3FE7-437A-9E16-B57E3B20A805}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E40A626-3FE7-437A-9E16-B57E3B20A805}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF1C2E09-D682-4454-AEE8-0F0473D3D12B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF1C2E09-D682-4454-AEE8-0F0473D3D12B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF1C2E09-D682-4454-AEE8-0F0473D3D12B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF1C2E09-D682-4454-AEE8-0F0473D3D12B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7269D1FA-B368-449C-B2D1-39B802CD77B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7269D1FA-B368-449C-B2D1-39B802CD77B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7269D1FA-B368-449C-B2D1-39B802CD77B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7269D1FA-B368-449C-B2D1-39B802CD77B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21AC4D4A-1615-453A-829E-00207CB6C6CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21AC4D4A-1615-453A-829E-00207CB6C6CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21AC4D4A-1615-453A-829E-00207CB6C6CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21AC4D4A-1615-453A-829E-00207CB6C6CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DA6C4DA-7E21-42B3-9D77-2B4E4318A826}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DA6C4DA-7E21-42B3-9D77-2B4E4318A826}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DA6C4DA-7E21-42B3-9D77-2B4E4318A826}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DA6C4DA-7E21-42B3-9D77-2B4E4318A826}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEFF4F41-5BD0-4E02-8D74-91D503EC6905}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEFF4F41-5BD0-4E02-8D74-91D503EC6905}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEFF4F41-5BD0-4E02-8D74-91D503EC6905}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEFF4F41-5BD0-4E02-8D74-91D503EC6905}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AF26C6A-2AA2-4B20-823A-88678959842C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AF26C6A-2AA2-4B20-823A-88678959842C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AF26C6A-2AA2-4B20-823A-88678959842C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AF26C6A-2AA2-4B20-823A-88678959842C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04DE82DF-4181-4364-8030-DF7A1E1AD99C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04DE82DF-4181-4364-8030-DF7A1E1AD99C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04DE82DF-4181-4364-8030-DF7A1E1AD99C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04DE82DF-4181-4364-8030-DF7A1E1AD99C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE59927A-EC4D-4A5F-9803-B137E483BFC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE59927A-EC4D-4A5F-9803-B137E483BFC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE59927A-EC4D-4A5F-9803-B137E483BFC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE59927A-EC4D-4A5F-9803-B137E483BFC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C2B840F-9160-47A1-B4D6-2D6E111A7893}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C2B840F-9160-47A1-B4D6-2D6E111A7893}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C2B840F-9160-47A1-B4D6-2D6E111A7893}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C2B840F-9160-47A1-B4D6-2D6E111A7893}.Release|Any CPU.Build.0 = Release|Any CPU
+		{009F9D94-2BFE-4F78-995D-5CF4EF3F8153}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{009F9D94-2BFE-4F78-995D-5CF4EF3F8153}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{009F9D94-2BFE-4F78-995D-5CF4EF3F8153}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{009F9D94-2BFE-4F78-995D-5CF4EF3F8153}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{FA6CCB57-BA00-484F-AF80-4C06A1C95382}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA6CCB57-BA00-484F-AF80-4C06A1C95382}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA6CCB57-BA00-484F-AF80-4C06A1C95382}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA6CCB57-BA00-484F-AF80-4C06A1C95382}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
