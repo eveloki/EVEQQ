@@ -1,0 +1,4 @@
+C:\Users\eveloki\Documents\Visual Studio 2015\Projects\wzkf\EVE_Central\bin\Debug\EVE_Central.dll
+C:\Users\eveloki\Documents\Visual Studio 2015\Projects\wzkf\EVE_Central\bin\Debug\EVE_Central.pdb
+C:\Users\eveloki\Documents\Visual Studio 2015\Projects\wzkf\EVE_Central\obj\Debug\EVE_Central.dll
+C:\Users\eveloki\Documents\Visual Studio 2015\Projects\wzkf\EVE_Central\obj\Debug\EVE_Central.pdb

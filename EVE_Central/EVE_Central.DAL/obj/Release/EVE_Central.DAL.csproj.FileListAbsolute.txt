@@ -1,0 +1,9 @@
+C:\Users\eveloki\Documents\Visual Studio 2015\Projects\wzkf\EVE_Central.DAL\bin\Release\EVE_Central.DAL.dll
+C:\Users\eveloki\Documents\Visual Studio 2015\Projects\wzkf\EVE_Central.DAL\bin\Release\EVE_Central.DAL.pdb
+C:\Users\eveloki\Documents\Visual Studio 2015\Projects\wzkf\EVE_Central.DAL\bin\Release\EVE_Central.DBUtility.dll
+C:\Users\eveloki\Documents\Visual Studio 2015\Projects\wzkf\EVE_Central.DAL\bin\Release\EVE_Central.dll
+C:\Users\eveloki\Documents\Visual Studio 2015\Projects\wzkf\EVE_Central.DAL\bin\Release\EVE_Central.DBUtility.pdb
+C:\Users\eveloki\Documents\Visual Studio 2015\Projects\wzkf\EVE_Central.DAL\bin\Release\EVE_Central.pdb
+C:\Users\eveloki\Documents\Visual Studio 2015\Projects\wzkf\EVE_Central.DAL\obj\Release\EVE_Central.DAL.csprojResolveAssemblyReference.cache
+C:\Users\eveloki\Documents\Visual Studio 2015\Projects\wzkf\EVE_Central.DAL\obj\Release\EVE_Central.DAL.dll
+C:\Users\eveloki\Documents\Visual Studio 2015\Projects\wzkf\EVE_Central.DAL\obj\Release\EVE_Central.DAL.pdb

@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+
+***********************************************************************************************
+website.publishproj
+
+警告: 请勿修改此文件，它将用于 Web 发布过程。
+
+版权所有 (C) Microsoft Corporation。保留所有权利。
+
+***********************************************************************************************
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.30319</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{596bfb27-8764-4df1-90ea-0be8c5f159a1}</ProjectGuid>
+    <SourceWebPhysicalPath>$(MSBuildThisFileDirectory)</SourceWebPhysicalPath>
+    <SourceWebVirtualPath>/WebSite2</SourceWebVirtualPath>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <SourceWebProject>
+    </SourceWebProject>
+    <SourceWebMetabasePath>
+    </SourceWebMetabasePath>
+  </PropertyGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <!-- for VS2010 we need to use 10.5 but for VS2012+ we should use VisualStudioVersion -->
+    <WebPublishTargetsVersion Condition=" '$(WebPublishTargetsVersion)' =='' and '$(VisualStudioVersion)' == 10.0 ">10.5</WebPublishTargetsVersion>
+    <WebPublishTargetsVersion Condition=" '$(WebPublishTargetsVersion)'=='' ">$(VisualStudioVersion)</WebPublishTargetsVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(WebPublishTargetsVersion)</VSToolsPath>
+    <_WebPublishTargetsPath Condition=" '$(_WebPublishTargetsPath)'=='' ">$(VSToolsPath)</_WebPublishTargetsPath>
+    <AssemblyFileVersion Condition="'$(AssemblyFileVersion)' == ''">1.0.0.0</AssemblyFileVersion>
+    <AssemblyVersion Condition="'$(AssemblyVersion)' == ''">1.0.0.0</AssemblyVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AssemblyAttributes Include="AssemblyFileVersion">
+      <Value>$(AssemblyFileVersion)</Value>
+    </AssemblyAttributes>
+    <AssemblyAttributes Include="AssemblyVersion">
+      <Value>$(AssemblyVersion)</Value>
+    </AssemblyAttributes>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\EVE_Central.ConsoleAPI\EVE_Central.ConsoleAPI.csproj">
+      <Project>{1AF26C6A-2AA2-4B20-823A-88678959842C}</Project>
+      <Name>EVE_Central.ConsoleAPI</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\eveloki\Documents\Visual Studio 2015\Projects\wzkf\Basis\EVE_Central.Basis.csproj">
+      <Project>{04DE82DF-4181-4364-8030-DF7A1E1AD99C}</Project>
+      <Name>EVE_Central.Basis</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\eveloki\Documents\Visual Studio 2015\Projects\wzkf\EVE_Central.BLL\EVE_Central.BLL.csproj">
+      <Project>{DF1C2E09-D682-4454-AEE8-0F0473D3D12B}</Project>
+      <Name>EVE_Central.BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\eveloki\Documents\Visual Studio 2015\Projects\wzkf\EVE_Central.DAL\EVE_Central.DAL.csproj">
+      <Project>{A59DBE94-BEF4-4E02-8A38-A78F69B3E135}</Project>
+      <Name>EVE_Central.DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\eveloki\Documents\Visual Studio 2015\Projects\wzkf\EVE_Central.DBUtility\EVE_Central.DBUtility.csproj">
+      <Project>{7E40A626-3FE7-437A-9E16-B57E3B20A805}</Project>
+      <Name>EVE_Central.DBUtility</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\eveloki\Documents\Visual Studio 2015\Projects\wzkf\EVE_Central\EVE_Central.Model.csproj">
+      <Project>{BFD723CE-DD4D-41A3-807C-774DED9D07C7}</Project>
+      <Name>EVE_Central.Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(_WebPublishTargetsPath)\Web\Microsoft.WebSite.Publishing.targets" />
+</Project>

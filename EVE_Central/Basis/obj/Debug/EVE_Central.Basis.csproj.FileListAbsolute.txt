@@ -1,0 +1,8 @@
+C:\Users\eveloki\Documents\Visual Studio 2015\Projects\wzkf\Basis\bin\Debug\Basis.dll
+C:\Users\eveloki\Documents\Visual Studio 2015\Projects\wzkf\Basis\bin\Debug\Basis.pdb
+C:\Users\eveloki\Documents\Visual Studio 2015\Projects\wzkf\Basis\bin\Debug\Newtonsoft.Json.dll
+C:\Users\eveloki\Documents\Visual Studio 2015\Projects\wzkf\Basis\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\eveloki\Documents\Visual Studio 2015\Projects\wzkf\Basis\bin\Debug\Newtonsoft.Json.xml
+C:\Users\eveloki\Documents\Visual Studio 2015\Projects\wzkf\Basis\obj\Debug\EVE_Central.Basis.csprojResolveAssemblyReference.cache
+C:\Users\eveloki\Documents\Visual Studio 2015\Projects\wzkf\Basis\obj\Debug\Basis.dll
+C:\Users\eveloki\Documents\Visual Studio 2015\Projects\wzkf\Basis\obj\Debug\Basis.pdb
